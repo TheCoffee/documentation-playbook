@@ -39,13 +39,13 @@ Consider including a diagram or flowchart that shows the functionality of the pr
 
 Proceed to explain briefly about the project structure for development. The main folder structure of the project is as follows:
 
-├── public
-├── src
-│ ├── components
-│ ├── helpers
-│ ├── pages
-│ │ ├── api
-│ ├── styles
+├── public  
+├── src  
+│ ├── components  
+│ ├── helpers  
+│ ├── pages  
+│ │ ├── api  
+│ ├── styles  
 
 Detailed project structure can be found at [project-structure.md](project-structure.md)
 

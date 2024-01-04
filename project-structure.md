@@ -2,13 +2,13 @@
 
 Provide a high-level overview of the project structure. Provide examples of how the project structure is organized. You might include code snippets or screenshots of the project directory to help illustrate your points. The main folder structure of the project is as follows:
 
-├── public
-├── src
-│ ├── components
-│ ├── helpers
-│ ├── pages
-│ │ ├── api
-│ ├── styles
+├── public  
+├── src  
+│ ├── components  
+│ ├── helpers  
+│ ├── pages  
+│ │ ├── api  
+│ ├── styles  
 
 ## Folders
 
